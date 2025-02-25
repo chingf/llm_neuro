@@ -2,3 +2,7 @@
 Scaling_Law_Tutorial.ipynb
 __pycache__
 configs.py
+pickles/
+*.png
+slurm-*
+.vscode/
